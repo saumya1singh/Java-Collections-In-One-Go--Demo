@@ -17,6 +17,7 @@ public class TreeSets {
         SortedSet sortedSet= treeSet.headSet(11, true);
         System.out.println(sortedSet);
 
+        //print values from a particular element up to tail in the set
         SortedSet sortedSet1= treeSet.tailSet(9, true);
         System.out.println(sortedSet1);
 
