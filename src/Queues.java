@@ -8,6 +8,7 @@ public class Queues {
         //Queue instance created using LinkedList
         //It offers almost features of LinkedList
 
+        //---------FIFO IMPLEMENTATION---------//
         Queue<Integer> queue= new LinkedList<>();
 
         queue.add(8);
