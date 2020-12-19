@@ -25,5 +25,9 @@ public class HashMaps {
         System.out.println(hashMap.compute(1,(key, value)->"Saumya Madam"));
 
         System.out.println(hashMap);
+
+
+        // --- TREEMAP : Sorts the pairs based on key value -----//
+        // --- LinkedHashMap : Order in which you ut or add values in map is retained----//
     }
 }
